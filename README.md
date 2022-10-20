@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReneMatter
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning GO
 - 📫 How to reach me with mail
 
 <!---
